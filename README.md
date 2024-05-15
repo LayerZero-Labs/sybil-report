@@ -1,10 +1,10 @@
 # LayerZero Sybil Reporting
 
-The [deadline to self-report](https://sybil.layerzero.network/) as sybil is May 18th, 02:00 UTC, following the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
+The [deadline to self-report](https://sybil.layerzero.network/) as a sybil is May 18th, 02:00 UTC, following the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
 
-Phase 2 begins on May 18th at 02:00 UTC, at which anyone can submit a sybil activity report. Successful reports result in the sybil addresses receiving nothing and the bounty hunter receiving 10% of the sybil’s intended allocation. 
+Phase 2 begins on May 18th at 02:00 UTC, during which anyone can submit a Sybil activity report. Successful reports will result in the sybil addresses receiving nothing and the bounty hunter receiving 10% of the sybil’s intended allocation. 
 
-Bounty hunters can use the information below to start producing reports; however, submissions will not be open until May 18th at 02:00 UTC. Submissions received before the start time, and after the deadline, will not be considered.
+Bounty hunters can use the following information to start producing reports; however, submissions will not be open until May 18th at 02:00 UTC. Submissions received before the start time, and after the deadline, will not be considered.
 
 **All transaction data prior to Snapshot #1 can be downloaded [here (Dropbox)](https://www.dropbox.com/scl/fo/m0ji3zbmbockvqkyl9353/ALYUg0-rLU2fuDMSd9nuB34?rlkey=kdu7zf877k919c34t754nxerc&st=qz5cfa1n&dl=0) or [here (S3 Bucket)](https://layerzerodataset.s3.us-east-2.amazonaws.com/snapshot1_transactions.csv.gz). The data is provided in two formats, one single csv file and a tar file that is split into smaller chunks.**
 
