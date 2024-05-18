@@ -6,7 +6,6 @@ labels: under review
 assignees: LayerZero-GH
 
 ---
-
 # Reported Addresses
 0x9f750f1297df93bf13fc4c4565a3dec852a997d6
 0x4416154e6a6814b3311138250e1cda7ce149a6a5
