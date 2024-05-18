@@ -1,0 +1,40 @@
+# Reported Addresses
+
+0x4a7780c860809cc0896dc86f4b2b49a1b49ca77d
+0x13f56d5d6193ee95f094fe9448cbbd783df95498
+0xaaa35aff17fb4dff99319f217782ba33411b5c26
+0xeec4dbcecbc93ee092a9f36512d5b3f427470252
+0xc458e1a4ec03c5039fbf38221c54be4e63731e2a
+0x51ec15594230ddf21a7ea5a4ac392bb8dbda527e
+0xb9ab9578a34a05c86124c399735fde44dec80e7f
+0x5eccf1b111c2bd408ff6597e07a68e57c670aef9
+0x80f021d1fc0a038f6178e3d2b87d83df357217f2
+0xccb4bd43a8dfa160a202874d442f6fe1e744ebd8
+0x4017a2aa83fae7d1829f56a47fe29895620d4a31
+0xab9f4d19f6f22b152153a1d701a1492255d79387
+0x08f5ae9f9f102d8c4ed20cbcff11f6d32cf82cb1
+0x12bb1acc46f85f600fdb7fc89317c934cb1930fd
+0x67ebdb06b57912313667f5d415f1bccf17f7b127
+0xf87a2458abe00ffcf418a526f1911af4cfde39ab
+0x56c5e3f54dc0a287fbc8f420d48667c163440365
+0xd62021a2fe6892e1cc503e005e30fbf578abc6bc
+0x19fbad9480aaf449aea5343b5bbca864a3124d4f
+0x0c92937be9c76c192ebb7935ff20c4f94d5671e0
+0xad9aba5c023666ff58d39a5f42a6d567a6a9c034
+0xa26898346677b0e67326c77ef20d9148e4d0c5e8
+0xad666002f89aa7d5d802e0eed643541ca52725e3
+0x279737f391b3c712a02af3a025fc556a3e7ef227
+0x9762192613eb085cdeaaa077bec6a53e9572fbcd
+0xc45418a90a96ab36f8f948f3ded1c0ea2a485770
+0xabd82e6f91ed888564d2f15c699e1ffcc18c66d3
+0x0f278c56b52b4c0e2a69b30a0b591d237c783907
+0xcf6f4069d857393203feba45917ce940eb46e7d4
+
+# Description
+Sybil Cluster Report, checked against initialList.txt
+
+# Detailed Methodology & Walkthrough
+My Sybil detection script efficiently processes large blockchain transaction datasets, constructs a comprehensive transaction graph, and identifies suspicious clusters using a detection algorithm. Leveraging parallel processing for scalability and automated report generation for ease of use, it provides accurate and detailed insights into potential Sybil attacks. This powerful tool enables swift identification and mitigation of blockchain security threats. Open Source: [GitHub Repository]([https://github.com/avocadodefi/Sybil/blob/main/Detect.py](https://github.com/palmerchelsea/Sybil/blob/main/sybil.py))
+
+# Reward Address (If Eligible)
+0x3Ec4BD8fe158135e89be206F3DeB0B932099A3C8
