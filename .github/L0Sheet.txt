@@ -1,0 +1,133 @@
+Sybil Addresses Provided to LayerZero By @MittenCrypto On Chain Alanyst, Reward Address- 0x4B53B79Bc4eA932C7F9cA07cD7F013F512Ca982e
+
+Methodology Used: All the address are handpicked and a example of Sybil address with proper reasons, Programs Used in Process:- LayerZeroScan.com, Arkham Intelligence, Nansen Ai, TrustaLabs, BubbleMaps, Dune.
+All the address have a proper reason with proper research on chain of being Sybil below
+
+
+0x14ae683317d9d27957f56c78e9308e7d54bc3b36 : Connected with Wallets 0x686184eC24793ea23CEbBE3b0b6aF13969d7bc9D, Source Arkham, Multi Wallets
+
+0x3d0d7f8720a02cfc9fee5dc7dc08181303a6ed86 : Connected with Wallets Circle Connection with Multiple wallets, Source Arkham, Multi Wallets
+
+0xC6B8d3e0af597E0007a36Da7EDc7484B53Cc5ABc : Circles in Layer Zero Protocols, Only wallet activity is to Interact with Layer zero, Wallet Balance Lower than 0.005 ETH, Source Arkham
+
+0xe27b1ccb7392ba14ff67181839780a434d2ba6f9 : Connected with Wallets, ZERO TO NO INFLOW, Only wallet activity is to Interact with Layer zero Source Arkham
+
+0x75014692b2ed1fc90b6c9376843170b3767a849b : Only Used for Layer ZERO Farming Not Used anywhere else, Maintaining Human activity via BOT, Source Arkham
+
+0x6e543fd8a391fce4514f31eee7cd48889437aea3 : Received money for farming then returned, Source Arkham
+
+0xa5c7e9bd6d92a818acc4c9f97dc085c9c3d87c1a : Only wallet activity is to Interact with Layer zero, Wallet Balance Lower than 0.005 ETH, Source Arkham
+
+0x7c9f7ff856abd3539a577f6cd72368639973b12c : Only wallet activity is to Interact with Layer zero, Withdrawn all funds after snapshot announcement, Source Arkham
+
+0xfe5db8ae0b9b841a41f3d250add010a6b72f9cee : Only wallet activity is to Interact with Layer zero, Wallet Balance Lower than 0.005 ETH, Source Arkham
+
+0xf9b128acb12a75a8231554cfe56aaecf28e72a48 : Withdrawn all funds after snapshot announcement, Source Arkham
+
+0x354908c727bfbe01442489eebcd01747256c9fd5 : Withdrawn most funds after snapshot announcement, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x62ed83da73b42b204a13aa6d7194b3da2282ec2b : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0xb23aed4315577d43b452a83c8cfd59ef720b9224 : Wallet Balance Lower than 0.005 ETH, Source Arkham
+
+0x02c58ff1c8d5692f263a6a40b9dfa852f534caf1 : Wallet Balance Lower than 0.005 ETH, Source Arkham
+
+0x21d6e6692514ae409f7aa06e05f6584a7f3da79a : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x339ae63f94079edb379c719bedc55e23da7fba0e : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x998d810d53b4922756283fd426019e97bfee98d6 : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0xc34f5eb7cc2d2801d5d292a148acb4e2787b7e6f : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x28917073976a313d90985b0f644c4cc6a21d1828 : Withdrawn most funds after snapshot announcement, Source Arkham
+
+0xa6c95bdf1cad9d7e2241a0264e4ca711e8521d8f : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x0d627437ed3dd3f6a940afaff29b20872f556d4b : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x4aaa71c13e21b7a193d97231b4d59c12a584a82f : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0xb2b67fe15ccdb98ac8b9516f86657b65720699a8 : Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0xcd78b9abfb7c104cdff452e7246a9959ce933afa : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x03af2e3d9f5a7f45fb804f7640c4974dcbbb0f49 : Wallet Balance Lower than 0.005 ETH, Withdrawn all funds after snapshot announcement, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0xea8c72b7b9876126972a6fb12ea027fb2fbb49a7 : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x9ae3337868a0728d345b4b97de299794454821d7 : Withdrawn all funds after snapshot announcement, Source Arkham
+
+0x64fb3bdab6f94924846cc8339b1c0d95cc0abbc4 : Wallet Balance Lower than 0.005 ETH, Only wallet activity is to Interact with Layer zero, Source Arkham
+
+0x365d7431ddc4121e8ac07710e10c34edecdc452a : Mostly Used For L2 Pass and Single Digit Transactions, Source Arkham
+
+0x1a4c023eedc6ea3e96a1aef691e5e7166fcd497a : Only used for Merkely Gas Refuel and Gas.zip, Source Arkham
+
+0xa4e4b036fa22d2be6cd6ef4bd12895aad0e15a25 : Only used for Merkely Gas Refuel, Source Arkham
+
+0xf7d5dcd1e697e5bfb1859e6406c9bfab6ad6a329 : Mostly Used For L2 Pass and Single Digit Transactions, Source Arkham
+
+0xc450256609f7cb6e53b749aec9a4fd3aa02cdc6d : Only used for Merkely Gas Refuel, Source Arkham
+
+0xe2c75d57a332bb7f4eaf6cc5088c8ffdba6f8930 : Only used for Merkely Gas Refuel, Source Arkham
+
+0x7362737f07d2a3522b521399500605c207d4ce9c : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0x82421e446efcbafc20e32706a6efe00c67bbcac2 : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0xa1c6a14d055ffa15cfac30c1f23e2b6cca0c8e01 : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0x701e67e7b26f6764e984eed69c87ed66040e82b8 : Only Merkely and Single Digit Transactions, Source Arkham
+
+0xf6b78de8fda2a47791e6832c4abe24e2306d9c97 : Only used Merkely Gas Refuel and single digit transactions, Source Arkham
+
+0xb987de2b728d7480e7d32c834c0e9646ec547545 : Mostly Used Merkely Gas refuel and single digit transactions, Source Arkham
+
+0xce0fe956547eb87b7f90beae646c34be2dd059b0 : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0x97c95b0110f1b58f1016dceb5b46261b50f2caf7 : Only used Merkely Gas Refuel and single digit transactions, Source Arkham
+ 
+0x83f74c4185f1007f04172510868f84f3a3fd600e : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0xf512d1c6ff7790c296c63b27e6942e96d75d135a : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0xdb1a7ab8f18c3efc56347f1291b94be7163b3bb7 : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0xa37d20cd446898508ab961c6be8d3fe1c15413fa : Mostly Used Merkely Gas Refuel and L2 Pass, Source Arkham
+
+0xd11f21746654bbcca56395d95c46ccbc552294f8 : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0xe05e272a5376da74e3c335b3f36926689cec9b15 : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0x6a025c0b139bc87062aab1f25ee566d5b62ea0f6 : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0xe6b1aedb11dc376fed6ca4c2cd7d862c2b6e5b2d : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0xf38016d7e9360e973f644de157f199f5686ab0e3 : Mostly Used Merkely Gas Refuel, Source Arkham
+
+0x033b75a02a0766265c09cc1cdf223152ebe2a2cd : Mostly used Merkely gas Refuel, Source Arkham
+
+0x4a889a12c7c5aeccfe956fe06d6286ef43bbd445 : Mostly used Merkely gas Refuel, Source Arkham
+
+0x8e52ded086f3673a9a87bb039fdb05dbd7c97bfb : Only used for Merkely Gas Refuel and Gas.zip, Source Arkham
+
+0x8cb72aa38b8edcece58ae4a3f2c9e71c897c4e17 : Mostly Used Merkely Gas Refuel and L2 Pass, Source Arkham
+
+0x1b3e5172069a20fc5426498f2b9905bdea6bde9e : Mostly Used Merkely Gas Refuel, Source Arkham 
+
+0xc450256609f7cb6e53b749aec9a4fd3aa02cdc6d : Mostly used Merkely Gas Refuel, Source Arkham
+
+0xf42ff7225bd0415692f0a7f977ff49b958af3e8b : Mostly used for L2 Pass, Source Arkham
+
+0x67c10ae138e5e976665a3d1d28dc39b0123e2bd7 : Only used for Merkely Gas Refuel, Source Arkham
+
+0x125ac4e7694984ed14a6867b40f21ff50dc6b0da : Only used for Merkely Gas Refuel, Source Arkham
+
+0x04f07b96c35c04fdb733d89fb55d6c4618bf79d2 : Only Used for Merkely Gas Refuel, Source Arkham
+
+0xd323d3e7749e5b0b0c1b0948725f42ea9254688d : Mostly Used For L2 Pass, Merkely and Single Digit Transactions, Source Arkham
+
+0x1cf69c9895b7a1bcb6a14a4e5778cc26f4b2e0b9 : Only used for Merkely Gas Refuel, Source Arkham
+
+0xcb1c71fe2790bbc368365c9e770bfaa1d946099b : Only used for Merkely Gas Refuel, Source Arkham
